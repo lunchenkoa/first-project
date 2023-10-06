@@ -98,10 +98,10 @@ ls - la
 
 Обратите внимание: вторая тройка тройных кавычек стоит на отдельной строке.  
 
-# Полезные ссылки
+# Полезные ссылки  
 
-- [шпаргалку на GitHub] (https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c "Шпаргалка по Markdown.md")
-- [гайд] (https://www.markdownguide.org/cheat-sheet/ "Markdown Cheat Sheet")
+[шпаргалкa на GitHub] (https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c "Шпаргалка по Markdown.md")
+[гайд] (https://www.markdownguide.org/cheat-sheet/ "Markdown Cheat Sheet")
  
 
 
